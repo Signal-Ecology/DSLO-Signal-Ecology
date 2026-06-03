@@ -32,6 +32,7 @@
   "coherence": "coherence.json",
   "synthesis": "synthesis.json",
   "signature": "signature.json",
+  "freeze": "freeze.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
