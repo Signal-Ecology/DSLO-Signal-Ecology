@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Validation rules for the TNOPSI / DSLO deterministic semantic substrate.",
+  "validation": {
+    "order": [
+      "integrity",
+      "spec",
+      "structure",
+      "constraints",
+      "semantics",
+      "corpus"
+    ],
+    "rules": {
+      "integrity": [
+        "all files must match declared checksums",
+        "manifest must reference valid components"
+      ],
+      "spec": [
+        "all components must satisfy required fields",
+        "types must match allowed types"
+      ],
+      "structure": [
+        "header components must be present",
+        "corpus must follow declared structure",
+        "engine must be deterministic"
+      ],
+      "constraints": [
+        "no cross-layer mutation",
+        "no corpus deletion",
+        "no invariant modification"
+      ],
+      "semantics": [
+        "nodes must be atomic",
+        "graphs must be acyclic",
+        "papers must reference existing nodes"
+      ],
+      "corpus": [
+        "all corpus items must be indexed",
+        "all nodes, papers, and graphs must be versioned"
+      ]
+    },
+    "dependencies": {
+      "spec": ["integrity"],
+      "structure": ["spec"],
+      "constraints": ["structure"],
+      "semantics": ["constraints"],
+      "corpus": ["semantics"]
+    }
+  },
+  "notes": "This v0.1 validation block defines the minimal deterministic validation pipeline for substrate ingestion."
+}
