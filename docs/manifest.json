@@ -27,6 +27,7 @@
   "release": "release.json",
   "identity_extended": "identity-extended.json",
   "classification": "classification.json",
+  "mapping": "mapping.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
