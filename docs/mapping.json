@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Cross-component mapping model for the TNOPSI / DSLO deterministic semantic substrate.",
+  "mapping": {
+    "semantic_links": {
+      "nodes_to_papers": [
+        {
+          "node": "dslo-definition-node",
+          "papers": ["dslo-core-definition"]
+        }
+      ],
+      "nodes_to_graphs": [
+        {
+          "node": "dslo-definition-node",
+          "graphs": ["dslo-core-graph"]
+        }
+      ]
+    },
+    "structural_links": {
+      "header_to_corpus": [
+        "semantics → nodes",
+        "semantics → graphs",
+        "taxonomy → corpus/index"
+      ],
+      "corpus_to_engine": [
+        "corpus/index → init.json",
+        "graphs → substrate-engine.js"
+      ]
+    },
+    "ontology_links": {
+      "taxonomy_to_nodes": [
+        {
+          "taxonomy_term": "deterministic-semantics",
+          "nodes": ["dslo-definition-node"]
+        }
+      ],
+      "taxonomy_to_papers": [
+        {
+          "taxonomy_term": "signal-ecology",
+          "papers": ["dslo-core-definition"]
+        }
+      ]
+    },
+    "invariant_links": {
+      "invariants_to_semantics": [
+        "invariants anchor semantic interpretation rules"
+      ],
+      "invariants_to_structure": [
+        "invariants constrain structural drift"
+      ]
+    }
+  },
+  "notes": "This v0.1 mapping block defines cross-component semantic, structural, and ontology linkages."
+}
