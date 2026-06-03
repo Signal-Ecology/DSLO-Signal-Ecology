@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Extended system health and diagnostic status for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Extended system health and diagnostic status for the DSLO Deterministic Semantic Layered Orchestration.",
   "status_extended": {
     "ingestion_ready": true,
     "structural_health": {
