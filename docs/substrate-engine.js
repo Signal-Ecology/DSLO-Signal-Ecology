@@ -1,4 +1,4 @@
-// TNOPSI / DSLO Substrate Engine (v0.1 minimal)
+// DSLO Substrate Engine (v0.1 minimal)
 // Loads manifest + corpus index and exposes a deterministic initialization payload.
 
 async function loadJSON(path) {
