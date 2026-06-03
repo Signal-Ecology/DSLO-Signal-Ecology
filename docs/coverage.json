@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Coverage declaration for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Coverage declaration for the DSLO Deterministic Semantic Layered Orchestration.",
   "coverage": {
     "header": {
       "complete": true,
