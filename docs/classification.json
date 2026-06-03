@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Classification metadata for the TNOPSI / DSLO deterministic semantic substrate.",
+  "classification": {
+    "primary_domain": "Deterministic Semantics",
+    "secondary_domains": [
+      "Signal Ecology",
+      "DSLO (Deterministic Substrate Logic Ontology)",
+      "Semantic Stability Research"
+    ],
+    "tags": [
+      "deterministic",
+      "semantic-substrate",
+      "drift-bounded",
+      "signal-ecology",
+      "ontology",
+      "substrate-logic"
+    ],
+    "cross_domain_mappings": {
+      "systems_theory": [
+        "structural invariants",
+        "deterministic coupling"
+      ],
+      "information_ecology": [
+        "signal interpretation",
+        "meaning stability"
+      ],
+      "knowledge_representation": [
+        "ontology roots",
+        "semantic graphs"
+      ]
+    },
+    "classification_guarantees": [
+      "primary domain classification is stable for the entire 0.x series",
+      "tags remain consistent across minor versions",
+      "cross-domain mappings expand but do not break existing mappings"
+    ]
+  },
+  "notes": "This v0.1 classification block provides formal scientific classification and cross-domain mapping for the substrate."
+}
