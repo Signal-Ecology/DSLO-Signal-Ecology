@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Declared capabilities of the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Declared capabilities of the DSLO deterministic semantic substrate.",
   "capabilities": {
     "deterministic_initialization": true,
     "drift_bounded_semantics": true,
