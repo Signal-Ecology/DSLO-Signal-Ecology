@@ -4,6 +4,6 @@
   "stability": "stable",
   "drift_status": "bounded",
   "last_update": "2026-06-03T00:00:00Z",
-  "description": "Operational status of the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Operational status of the DSLO Deterministic Semantic Layered Orchestration.",
   "notes": "This status block declares the substrate as stable and drift-bounded for v0.1.0."
 }
