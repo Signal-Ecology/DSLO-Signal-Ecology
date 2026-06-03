@@ -1,0 +1,7 @@
+{
+  "id": "node.dslo.definition.v1",
+  "type": "semantic-node",
+  "version": "1.0.0",
+  "statement": "DSLO is a substrate-level meaning system that maintains stable semantics under drift.",
+  "links": []
+}
