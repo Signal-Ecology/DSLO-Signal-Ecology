@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Semantic model declaration for the TNOPSI / DSLO deterministic semantic substrate.",
+  "semantics": {
+    "model": "drift-bounded substrate-level semantics",
+    "principles": [
+      "meaning is anchored by invariants",
+      "nodes represent atomic semantic units",
+      "papers encode node-graph meaning structures",
+      "graphs define relational meaning",
+      "interpretation is deterministic and context-stable"
+    ],
+    "interpretation_rules": {
+      "invariants": "define non-negotiable semantic anchors",
+      "nodes": "represent minimal meaning units",
+      "papers": "bind nodes into structured semantic expressions",
+      "graphs": "express relational meaning between nodes",
+      "constraints": "limit drift and enforce semantic stability"
+    },
+    "drift_model": {
+      "type": "bounded",
+      "description": "Semantic drift is constrained by invariants and structural rules.",
+      "allowed": false,
+      "exceptions": []
+    }
+  },
+  "notes": "This v0.1 semantics block defines the minimal interpretation rules for deterministic meaning."
+}
