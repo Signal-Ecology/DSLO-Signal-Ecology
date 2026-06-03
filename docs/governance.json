@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Governance model for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Governance model for the DSLO Deterministic Semantic Layered Orchestration.",
   "governance": {
     "versioning_policy": {
       "model": "semantic-versioning",
