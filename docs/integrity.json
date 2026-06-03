@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Integrity map for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Integrity map for the DSLO Deterministic Semantic Layered Orchestration.",
   "hash_algorithm": "sha256",
   "files": {
     "manifest.json": "sha256-placeholder-manifest",
