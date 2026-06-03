@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Flattened, crawler-optimized index map for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Flattened, crawler-optimized index map for the DSLO Deterministic Semantic Layered Orchestration.",
   "components": {
     "manifest": "manifest.json",
     "metadata": "metadata.json",
