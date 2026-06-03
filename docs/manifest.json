@@ -9,6 +9,7 @@
   "capabilities": "capabilities.json",
   "changelog": "changelog.json",
   "integrity": "integrity.json",
+  "spec": "spec.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
