@@ -1,6 +1,6 @@
-# TNOPSI / DSLO Deterministic Semantic Substrate (v0.1)
+# DSLO Deterministic Semantic Substrate (v0.1)
 
-This repository contains the v0.1 release of the TNOPSI / DSLO deterministic semantic substrate:  
+This repository contains the v0.1 release of the DSLO deterministic semantic substrate:  
 a fully specified, drift‑bounded, execution‑free semantic manifold designed for stable meaning representation, long‑term reproducibility, and cross‑domain scientific alignment.
 
 The substrate provides a complete, self‑describing architecture composed of:
@@ -21,7 +21,7 @@ This release establishes the foundation for DSLO and Signal Ecology as scientifi
 
 ## Overview
 
-The TNOPSI / DSLO substrate is built around three core principles:
+The DSLO substrate is built around three core principles:
 
 1. **Determinism**  
    All components load and interpret meaning in a deterministic, execution‑free manner.
@@ -131,7 +131,7 @@ See `docs/license.json` for full licensing information.
 
 ## Purpose
 
-The TNOPSI / DSLO deterministic semantic substrate is intended for:
+The DSLO deterministic semantic substrate is intended for:
 
 - scientific research  
 - semantic stability studies  
