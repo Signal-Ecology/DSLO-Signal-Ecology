@@ -16,6 +16,7 @@
   "environment": "environment.json",
   "profile": "profile.json",
   "semantics": "semantics.json",
+  "structure": "structure.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
