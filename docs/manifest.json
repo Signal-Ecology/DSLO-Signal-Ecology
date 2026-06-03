@@ -22,6 +22,7 @@
   "validation": "validation.json",
   "interfaces": "interfaces.json",
   "status_extended": "status-extended.json",
+  "coverage": "coverage.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
