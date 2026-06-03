@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "title": "TNOPSI / DSLO Semantic Substrate",
+  "title": "DSLO Semantic Substrate",
   "purpose": "To provide a deterministic, drift-bounded semantic substrate for the DSLO and Signal Ecology scientific frameworks.",
   "audience": [
     "biological readers",
@@ -8,6 +8,6 @@
     "deterministic clients",
     "scientific indexing engines"
   ],
-  "summary": "TNOPSI is a dual-layer deterministic publishing architecture. The GitHub Pages layer provides a static, invariant-anchored semantic substrate designed for machine-level semantic initialization. It encodes DSLO and Signal Ecology as structured meaning rather than prose.",
+  "summary": "DSLO is a dual-layer deterministic publishing architecture. The GitHub Pages layer provides a static, invariant-anchored semantic substrate designed for machine-level semantic initialization. It encodes DSLO and Signal Ecology as structured meaning rather than prose.",
   "notes": "This file provides a human-safe scientific description of the substrate. It is not a narrative layer and does not replace the public-facing site."
 }
