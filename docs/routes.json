@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Canonical routing table for the TNOPSI / DSLO deterministic semantic substrate.",
+  "routes": {
+    "manifest": "manifest.json",
+    "corpus_index": "corpus/index.json",
+    "metadata": "metadata.json",
+    "about": "about.json",
+    "status": "status.json",
+    "engine": "substrate-engine.js",
+    "init": "init.json"
+  }
+}
