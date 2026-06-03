@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Constraint model for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Constraint model for the DSLO Deterministic Semantic Layered Orchestration.",
   "constraints": {
     "structural": {
       "header_is_static": true,
