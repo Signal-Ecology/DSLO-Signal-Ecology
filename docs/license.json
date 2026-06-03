@@ -1,8 +1,8 @@
 {
   "schema_version": "0.1.0",
-  "description": "Machine-readable license declaration for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Machine-readable license declaration for the DSLO Deterministic Semantic Layered Orchestration.",
   "license": {
-    "type": "TNOPSI-Open-Scientific-Use-1.0",
+    "type": "DSLO-Open-Scientific-Use-1.0",
     "permissions": {
       "scientific_use": true,
       "machine_ingestion": true,
