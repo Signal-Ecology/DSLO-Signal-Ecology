@@ -23,7 +23,7 @@ async function initializeSubstrate() {
 }
 
 // Expose globally for crawlers and deterministic clients
-window.TNOPSI_Substrate = {
+window.DSLO_Substrate = {
     initialize: initializeSubstrate,
     fetchInit: async function() {
         const init = await loadJSON("init.json");
