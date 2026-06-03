@@ -24,6 +24,7 @@
   "status_extended": "status-extended.json",
   "coverage": "coverage.json",
   "roadmap": "roadmap.json",
+  "release": "release.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
