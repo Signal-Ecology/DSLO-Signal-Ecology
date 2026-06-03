@@ -1,0 +1,18 @@
+{
+  "id": "paper.dslo.ai-native-document-protocol.v1",
+  "title": "AI-Native Document Protocol (v1.0)",
+  "type": "paper",
+  "version": "1.0",
+  "nodes": [
+    {
+      "id": "abstract",
+      "type": "section",
+      "summary": "Defines the dual-substrate architecture for AI-native documents."
+    }
+  ],
+  "invariants": [
+    "Meaning is unfolded interactively, not consumed linearly.",
+    "Nodes are semantic anchors, not prose.",
+    "Geometry defines the legal option space for interpretation."
+  ]
+}
