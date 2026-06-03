@@ -19,6 +19,7 @@
   "structure": "structure.json",
   "governance": "governance.json",
   "constraints": "constraints.json",
+  "validation": "validation.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
