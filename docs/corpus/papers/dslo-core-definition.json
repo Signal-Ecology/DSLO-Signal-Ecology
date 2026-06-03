@@ -1,0 +1,15 @@
+{
+  "id": "paper.dslo.core.definition.v1",
+  "title": "DSLO Core Definition",
+  "version": "1.0.0",
+  "type": "node-graph-paper",
+  "abstract": "Defines the core substrate-level meaning constraints of DSLO.",
+  "nodes": [
+    {
+      "id": "node.dslo.definition.v1",
+      "statement": "DSLO is a substrate-level meaning system that maintains stable semantics under drift.",
+      "links": []
+    }
+  ],
+  "graphs": []
+}
