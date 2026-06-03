@@ -1,0 +1,7 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Unified initialization endpoint for the TNOPSI / DSLO semantic substrate.",
+  "manifest": "manifest.json",
+  "corpus_index": "corpus/index.json",
+  "engine": "substrate-engine.js"
+}
