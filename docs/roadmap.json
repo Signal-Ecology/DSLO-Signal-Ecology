@@ -1,0 +1,50 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Roadmap for future evolution of the TNOPSI / DSLO deterministic semantic substrate.",
+  "roadmap": {
+    "versions": {
+      "v0.2": {
+        "planned_items": [
+          "expanded DSLO ontology",
+          "additional semantic nodes",
+          "additional node-graph papers",
+          "extended semantic rules",
+          "initial multi-domain taxonomy expansion"
+        ],
+        "status": "planned"
+      },
+      "v0.3": {
+        "planned_items": [
+          "full DSLO ontology layer",
+          "expanded Signal Ecology domain",
+          "multi-graph semantic structures",
+          "extended invariants set"
+        ],
+        "status": "planned"
+      },
+      "v1.0": {
+        "planned_items": [
+          "complete DSLO semantic substrate",
+          "full ontology coverage",
+          "complete corpus",
+          "stable long-term governance model"
+        ],
+        "status": "future"
+      }
+    },
+    "long_term_goals": [
+      "complete DSLO ontology",
+      "complete Signal Ecology ontology",
+      "multi-layer semantic graph ecosystem",
+      "cross-domain semantic integration",
+      "stable scientific substrate for long-term use"
+    ],
+    "non_goals": [
+      "dynamic execution",
+      "runtime mutation",
+      "closed-source components",
+      "external dependencies"
+    ]
+  },
+  "notes": "This v0.1 roadmap defines the planned evolution of the substrate through v1.0 and beyond."
+}
