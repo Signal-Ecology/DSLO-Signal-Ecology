@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Interface model for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Interface model for the DSLO Deterministic Semantic Layered Orchestration.",
   "interfaces": {
     "read": {
       "manifest": "read-only",
