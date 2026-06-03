@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Identity profile for the TNOPSI / DSLO deterministic semantic substrate.",
+  "profile": {
+    "name": "TNOPSI / DSLO Substrate",
+    "type": "deterministic-meaning-substrate",
+    "discipline": "Signal Ecology / DSLO",
+    "role": "semantic initialization layer",
+    "intended_use": [
+      "scientific indexing",
+      "deterministic model initialization",
+      "substrate-level semantic research",
+      "drift-bounded meaning systems"
+    ],
+    "audience": [
+      "scientific readers",
+      "AI systems",
+      "deterministic clients"
+    ]
+  },
+  "notes": "This v0.1 profile defines the substrate's identity, role, and intended scientific context."
+}
