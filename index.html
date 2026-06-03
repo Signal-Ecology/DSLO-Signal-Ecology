@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>DSLO Deterministic Semantic Layered Orchestration</title>
-    <script src="substrate-engine.js"></script>
-
+    <script src="docs/substrate-engine.js"></script>
 </head>
 <body>
     <h1>DSLO Deterministic Semantic Layered Orchestration</h1>
@@ -13,7 +12,6 @@
     <pre id="init-output">Initializing…</pre>
 
     <script>
-        // Deterministic initialization call
         DSLO_Substrate.initialize()
             .then(payload => {
                 document.getElementById("init-output").textContent =
