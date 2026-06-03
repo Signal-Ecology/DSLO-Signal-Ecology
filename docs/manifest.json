@@ -18,6 +18,7 @@
   "semantics": "semantics.json",
   "structure": "structure.json",
   "governance": "governance.json",
+  "constraints": "constraints.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
