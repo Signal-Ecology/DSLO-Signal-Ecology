@@ -8,6 +8,7 @@
   "routes": "routes.json",
   "capabilities": "capabilities.json",
   "changelog": "changelog.json",
+  "integrity": "integrity.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
