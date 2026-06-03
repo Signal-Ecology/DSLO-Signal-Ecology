@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Flattened, crawler-optimized index map for the TNOPSI / DSLO deterministic semantic substrate.",
+  "components": {
+    "manifest": "manifest.json",
+    "metadata": "metadata.json",
+    "about": "about.json",
+    "status": "status.json",
+    "routes": "routes.json",
+    "capabilities": "capabilities.json",
+    "changelog": "changelog.json",
+    "integrity": "integrity.json",
+    "spec": "spec.json",
+    "license": "license.json",
+    "taxonomy": "taxonomy.json",
+    "init": "init.json",
+    "engine": "substrate-engine.js"
+  },
+  "corpus": {
+    "index": "corpus/index.json",
+    "nodes": [
+      "corpus/nodes/dslo-definition-node.json"
+    ],
+    "papers": [
+      "corpus/papers/dslo-core-definition.json"
+    ],
+    "graphs": [
+      "corpus/graphs/dslo-core-graph.json"
+    ]
+  },
+  "notes": "This v0.1 index map provides a flattened overview of all substrate components for deterministic ingestion."
+}
