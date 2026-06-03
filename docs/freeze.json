@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Freeze declaration for the TNOPSI / DSLO deterministic semantic substrate v0.1.",
+  "freeze": {
+    "version_frozen": "0.1.0",
+    "frozen_components": [
+      "invariants",
+      "constraints",
+      "semantics",
+      "structure",
+      "governance",
+      "validation",
+      "interfaces",
+      "coverage",
+      "roadmap",
+      "release",
+      "identity",
+      "classification",
+      "mapping",
+      "crosswalk",
+      "synthesis",
+      "signature",
+      "corpus",
+      "engine",
+      "header"
+    ],
+    "immutability_guarantees": [
+      "no component in v0.1 may be altered",
+      "no invariant may be modified or removed",
+      "no constraint may be relaxed",
+      "no semantic rule may be changed",
+      "no structural layer may be altered",
+      "no corpus item may be deleted or rewritten",
+      "no mapping or crosswalk may be retroactively changed"
+    ],
+    "allowed_changes_post_freeze": [
+      "append-only corpus additions in future versions",
+      "new components introduced in v0.2+",
+      "non-breaking expansions consistent with invariants"
+    ],
+    "freeze_state": "complete"
+  },
+  "notes": "This v0.1 freeze block finalizes the deterministic semantic substrate and locks all components."
+}
