@@ -21,6 +21,7 @@
   "constraints": "constraints.json",
   "validation": "validation.json",
   "interfaces": "interfaces.json",
+  "status_extended": "status-extended.json",
   "invariants": [
     {
         "id": "dslo.core.definition.v1",
