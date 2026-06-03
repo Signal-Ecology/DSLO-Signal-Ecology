@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "substrate_type": "deterministic-meaning-substrate",
+  "discipline": "Signal Ecology / DSLO",
+  "version": "0.1.0",
+  "description": "Metadata describing the TNOPSI / DSLO deterministic semantic substrate.",
+  "components": {
+    "manifest": "manifest.json",
+    "corpus_index": "corpus/index.json",
+    "engine": "substrate-engine.js",
+    "init": "init.json"
+  }
+}
