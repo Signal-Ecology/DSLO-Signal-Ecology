@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Roadmap for future evolution of the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Roadmap for future evolution of the DSLO Deterministic Semantic Layered Orchestration.",
   "roadmap": {
     "versions": {
       "v0.2": {
