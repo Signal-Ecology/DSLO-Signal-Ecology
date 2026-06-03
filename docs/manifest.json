@@ -1,6 +1,7 @@
 {
   "schema_version": "0.1.0",
   "manifold_id": "tnopsi-dslo-v0",
+  "metadata": "metadata.json",
   "description": "Deterministic semantic manifold for TNOPSI / DSLO Signal Ecology.",
   "invariants": [
     {
