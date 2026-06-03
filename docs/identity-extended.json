@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Extended identity metadata for the TNOPSI / DSLO deterministic semantic substrate.",
+  "identity_extended": {
+    "scientific_domain": [
+      "Deterministic Semantics",
+      "Signal Ecology",
+      "DSLO (Deterministic Substrate Logic Ontology)"
+    ],
+    "conceptual_ancestry": {
+      "roots": [
+        "substrate-level semantics",
+        "drift-bounded meaning systems",
+        "agent-environment coupling",
+        "signal interpretation theory"
+      ],
+      "related_domains": [
+        "systems theory",
+        "information ecology",
+        "semantic stability research"
+      ]
+    },
+    "lineage": {
+      "substrate_family": "TNOPSI deterministic substrates",
+      "generation": "first-generation DSLO substrate",
+      "compatibility": [
+        "TNOPSI v0.x",
+        "DSLO v0.x"
+      ]
+    },
+    "identity_guarantees": [
+      "substrate remains deterministic",
+      "identity remains stable across versions",
+      "scientific domain classification is immutable for the 0.x series"
+    ]
+  },
+  "notes": "This v0.1 identity-extended block provides deep scientific identity and conceptual lineage for the substrate."
+}
