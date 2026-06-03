@@ -1,0 +1,10 @@
+{
+  "id": "graph.dslo.core.v1",
+  "title": "DSLO Core Graph",
+  "version": "1.0.0",
+  "type": "semantic-graph",
+  "nodes": [
+    "node.dslo.definition.v1"
+  ],
+  "edges": []
+}
