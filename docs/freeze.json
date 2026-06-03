@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Freeze declaration for the TNOPSI / DSLO deterministic semantic substrate v0.1.",
+  "description": "Freeze declaration for the DSLO Deterministic Semantic Layered Orchestration v0.1.",
   "freeze": {
     "version_frozen": "0.1.0",
     "frozen_components": [
