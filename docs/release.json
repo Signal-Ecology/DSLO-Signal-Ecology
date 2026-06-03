@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Release metadata for the TNOPSI / DSLO deterministic semantic substrate.",
+  "release": {
+    "version": "0.1.0",
+    "classification": "foundational",
+    "stability": "stable",
+    "lineage": {
+      "previous": null,
+      "next_planned": "0.2.0"
+    },
+    "notes": [
+      "Initial release of the deterministic semantic substrate.",
+      "Includes full header suite and minimal DSLO corpus.",
+      "Establishes invariants, constraints, semantics, and structural model.",
+      "Provides deterministic ingestion and validation pipeline."
+    ],
+    "guarantees": [
+      "no breaking changes within 0.1.x",
+      "invariants remain immutable",
+      "corpus remains append-only",
+      "header remains stable for the entire 0.x series"
+    ]
+  },
+  "additional_notes": "This v0.1 release establishes the substrate foundation for all future DSLO and Signal Ecology work."
+}
