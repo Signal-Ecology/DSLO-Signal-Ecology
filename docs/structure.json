@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Structural model for the TNOPSI / DSLO deterministic semantic substrate.",
+  "description": "Structural model for the DSLO Deterministic Semantic Layered Orchestration.",
   "structure": {
     "layers": [
       {
