@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "description": "Deterministic manifold signature for the TNOPSI / DSLO semantic substrate.",
+  "description": "Deterministic manifold signature for the DSLO Deterministic Semantic Layered Orchestration.",
   "signature": {
     "version": "0.1.0",
     "signature_type": "deterministic-manifold-hash",
