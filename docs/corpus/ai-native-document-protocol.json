@@ -7,7 +7,242 @@
     {
       "id": "abstract",
       "type": "section",
-      "summary": "Defines the dual-substrate architecture for AI-native documents."
+      "summary": "Defines the AI-Native Document Protocol as a dual-substrate architecture for multi-plane cognition, binding human meaning and AI geometry into a single coherent system."
+    },
+    {
+      "id": "introduction",
+      "type": "section",
+      "summary": "Introduces the motivation, problem, and solution for AI-native documents in multi-plane cognition.",
+      "children": ["motivation", "problem-statement", "solution-overview"]
+    },
+    {
+      "id": "motivation",
+      "type": "subsection",
+      "summary": "Explains why linear documents fail in multi-plane cognition, why humans cannot hold multi-layer meaning, why AI collapses without invariants, and why DSLO requires a new communication substrate."
+    },
+    {
+      "id": "problem-statement",
+      "type": "subsection",
+      "summary": "Defines ontology mismatch, drift across planes, loss of geometry, human-to-human relational collapse, and AI-to-human instability as core failure modes."
+    },
+    {
+      "id": "solution-overview",
+      "type": "subsection",
+      "summary": "Summarizes the dual-substrate architecture, AI-mediated reading, AI-stabilized writing, geometry-anchored meaning, and DPS as the executable layer."
+    },
+    {
+      "id": "dual-substrate-architecture",
+      "type": "section",
+      "summary": "Describes the dual-substrate architecture: Writing Substrate and Reading Substrate, and why both are required.",
+      "children": ["writing-substrate", "reading-substrate", "why-two-substrates"]
+    },
+    {
+      "id": "writing-substrate",
+      "type": "subsection",
+      "summary": "Defines node encoding, invariant anchoring, constraint definition, semantic compression, and geometry-first authoring as the core of the Writing Substrate."
+    },
+    {
+      "id": "reading-substrate",
+      "type": "subsection",
+      "summary": "Defines the AI-Native Reading Protocol, including expansion vectors, cross-plane translation, drift correction, and structural verification."
+    },
+    {
+      "id": "why-two-substrates",
+      "type": "subsection",
+      "summary": "Explains why two substrates are required due to human cognitive limits, AI ontology fluidity, multi-plane coherence needs, and geometry preservation."
+    },
+    {
+      "id": "ai-native-writing-protocol",
+      "type": "section",
+      "summary": "Specifies the AI-Native Writing Protocol, including roles of author and AI, the dual-substrate writing loop, and authoring constraints.",
+      "children": ["author-role", "ai-role-writing", "dual-substrate-writing-loop", "authoring-constraints"]
+    },
+    {
+      "id": "author-role",
+      "type": "subsection",
+      "summary": "Defines the author’s role: provide meaning, nodes, vectors, and constraints; avoid narrative drift and legacy ontology."
+    },
+    {
+      "id": "ai-role-writing",
+      "type": "subsection",
+      "summary": "Defines the AI’s role: condense, stabilize, enforce invariants, align geometry, and produce substrate-safe form."
+    },
+    {
+      "id": "dual-substrate-writing-loop",
+      "type": "subsection",
+      "summary": "Describes the loop: Human -> Meaning, AI -> Geometry, Human -> Verification, AI -> Finalization."
+    },
+    {
+      "id": "authoring-constraints",
+      "type": "subsection",
+      "summary": "Lists constraints: no implicit assumptions, no linear dependencies, no uncontrolled metaphors, no narrative-first structure."
+    },
+    {
+      "id": "ai-native-reading-protocol",
+      "type": "section",
+      "summary": "Defines the AI-Native Reading Protocol, including reader and AI roles, the reading loop, and multi-plane navigation.",
+      "children": ["reader-role", "ai-role-reading", "ai-mediated-reading-loop", "multi-plane-navigation"]
+    },
+    {
+      "id": "reader-role",
+      "type": "subsection",
+      "summary": "Defines the reader’s role: explore rather than consume, query nodes, trigger expansions, and request cross-plane mapping."
+    },
+    {
+      "id": "ai-role-reading",
+      "type": "subsection",
+      "summary": "Defines the AI’s role: expand, explain, translate, correct drift, and maintain invariants during reading."
+    },
+    {
+      "id": "ai-mediated-reading-loop",
+      "type": "subsection",
+      "summary": "Describes the loop: Reader -> Explore, AI -> Expand, AI -> Explain, AI -> Correct, Reader -> Stabilize."
+    },
+    {
+      "id": "multi-plane-navigation",
+      "type": "subsection",
+      "summary": "Defines navigation across surface, relational, geometric, and substrate planes."
+    },
+    {
+      "id": "geometry-as-meaning-substrate",
+      "type": "section",
+      "summary": "Explains why geometry is the meaning substrate and how documents become geometric objects with AI-preserved behavior.",
+      "children": ["why-geometry", "document-as-geometric-object", "geometry-preserving-ai-behavior"]
+    },
+    {
+      "id": "why-geometry",
+      "type": "subsection",
+      "summary": "Explains that geometry provides stability, invariance, drift resistance, and multi-plane compatibility."
+    },
+    {
+      "id": "document-as-geometric-object",
+      "type": "subsection",
+      "summary": "Treats the document as a geometric object: nodes as coordinates, vectors as relations, boundaries as constraints, morphisms as transitions."
+    },
+    {
+      "id": "geometry-preserving-ai-behavior",
+      "type": "subsection",
+      "summary": "Defines geometry-preserving AI behavior: topological legality, invariant enforcement, boundary preservation, and correction operators."
+    },
+    {
+      "id": "integration-with-dslo",
+      "type": "section",
+      "summary": "Describes integration with the DSLO Geometric Field Substrate and DSLO Product Specification (DPS), and the document-to-DPS pipeline.",
+      "children": ["dslo-geometric-field-substrate", "dslo-product-specification", "document-dps-pipeline"]
+    },
+    {
+      "id": "dslo-geometric-field-substrate",
+      "type": "subsection",
+      "summary": "Defines the DSLO Geometric Field Substrate: latent manifold M, invariant potential operator, triadic invariants, and virtual Hilbert space."
+    },
+    {
+      "id": "dslo-product-specification",
+      "type": "subsection",
+      "summary": "Describes the DSLO Product Specification (DPS): executable geometry, deterministic kernels, boundary conditions, correction rules, and portable execution graph."
+    },
+    {
+      "id": "document-dps-pipeline",
+      "type": "subsection",
+      "summary": "Defines the pipeline: Meaning -> Geometry -> Execution, mapping AI-native documents into DPS."
+    },
+    {
+      "id": "fixed-point-layer",
+      "type": "section",
+      "summary": "Introduces the Fixed-Point Layer expressed in 5-year-old language as a universal anchor for drift-free meaning.",
+      "children": ["fixed-point-purpose", "fixed-point-expressions", "fixed-point-ai-usage"]
+    },
+    {
+      "id": "fixed-point-purpose",
+      "type": "subsection",
+      "summary": "Defines the purpose of the fixed point: universal anchor, plane-neutral meaning, drift-free entry point."
+    },
+    {
+      "id": "fixed-point-expressions",
+      "type": "subsection",
+      "summary": "Lists canonical expressions such as 'This is the rule that keeps the rules from drifting.' and 'This is the boundary that keeps the meaning from leaking.'"
+    },
+    {
+      "id": "fixed-point-ai-usage",
+      "type": "subsection",
+      "summary": "Explains how AI uses the fixed point for ontology alignment, reader grounding, and drift correction."
+    },
+    {
+      "id": "full-communication-loop",
+      "type": "section",
+      "summary": "Describes the full communication loop across author, AI, substrate, DPS, and production.",
+      "children": ["author-to-ai", "reader-to-ai", "ai-to-substrate", "substrate-to-dps", "dps-to-production"]
+    },
+    {
+      "id": "author-to-ai",
+      "type": "subsection",
+      "summary": "Defines the author-to-AI path: Meaning -> Geometry."
+    },
+    {
+      "id": "reader-to-ai",
+      "type": "subsection",
+      "summary": "Defines the reader-to-AI path: Exploration -> Expansion."
+    },
+    {
+      "id": "ai-to-substrate",
+      "type": "subsection",
+      "summary": "Defines the AI-to-substrate path: Geometry -> Invariants."
+    },
+    {
+      "id": "substrate-to-dps",
+      "type": "subsection",
+      "summary": "Defines the substrate-to-DPS path: Invariants -> Execution."
+    },
+    {
+      "id": "dps-to-production",
+      "type": "subsection",
+      "summary": "Defines the DPS-to-production path: Deterministic output."
+    },
+    {
+      "id": "why-protocol-necessary",
+      "type": "section",
+      "summary": "Explains why the AI-Native Document Protocol is necessary given human cognitive limits, AI properties, DSLO requirements, and failure modes without the protocol.",
+      "children": ["human-cognitive-limits", "ai-cognitive-properties", "dslo-requirements", "without-protocol"]
+    },
+    {
+      "id": "human-cognitive-limits",
+      "type": "subsection",
+      "summary": "Describes human limits: single-plane reasoning, limited working memory, ontology rigidity."
+    },
+    {
+      "id": "ai-cognitive-properties",
+      "type": "subsection",
+      "summary": "Describes AI properties: multi-plane reasoning, ontology fluidity, high-dimensional geometry."
+    },
+    {
+      "id": "dslo-requirements",
+      "type": "subsection",
+      "summary": "Defines DSLO requirements: invariant preservation, geometry stability, multi-plane coherence."
+    },
+    {
+      "id": "without-protocol",
+      "type": "subsection",
+      "summary": "Lists failure modes without the protocol: drift, collapse, misinterpretation, loss of invariants."
+    },
+    {
+      "id": "conclusion",
+      "type": "section",
+      "summary": "Summarizes the protocol, its implications, and future work.",
+      "children": ["conclusion-summary", "conclusion-implications", "future-work"]
+    },
+    {
+      "id": "conclusion-summary",
+      "type": "subsection",
+      "summary": "Summarizes dual-substrate communication, AI-mediated cognition, geometry-anchored meaning, and deterministic execution."
+    },
+    {
+      "id": "conclusion-implications",
+      "type": "subsection",
+      "summary": "Describes implications: post-linear scientific communication, deterministic AI reasoning, executable knowledge artifacts, and multi-plane human-AI collaboration."
+    },
+    {
+      "id": "future-work",
+      "type": "subsection",
+      "summary": "Outlines future work: multi-agent substrate protocols, on-device substrate runtimes, and real-time geometric cognition."
     }
   ],
   "invariants": [
