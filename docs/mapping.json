@@ -50,5 +50,40 @@
       ]
     }
   },
+  "protocol_links": {
+  "protocol_to_papers": [
+    {
+      "protocol": "ai_native_document_protocol",
+      "papers": ["ai_native_document_protocol"]
+    }
+  ],
+  "protocol_to_nodes": [
+    {
+      "protocol": "ai_native_document_protocol",
+      "nodes": [
+        "abstract",
+        "introduction",
+        "dual-substrate-architecture",
+        "ai-native-writing-protocol",
+        "ai-native-reading-protocol",
+        "geometry-as-meaning-substrate",
+        "integration-with-dslo",
+        "fixed-point-layer",
+        "full-communication-loop",
+        "why-protocol-necessary",
+        "conclusion"
+      ]
+    }
+  ],
+  "protocol_to_semantics": [
+    "protocol defines geometry-anchored meaning",
+    "protocol constrains multi-plane interpretation"
+  ],
+  "protocol_to_structure": [
+    "protocol defines dual-substrate architecture",
+    "protocol binds writing and reading substrates"
+  ]
+}
+
   "notes": "This v0.1 mapping block defines cross-component semantic, structural, and ontology linkages."
 }
