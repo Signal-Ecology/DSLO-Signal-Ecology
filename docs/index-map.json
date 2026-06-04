@@ -14,7 +14,8 @@
     "license": "license.json",
     "taxonomy": "taxonomy.json",
     "init": "init.json",
-    "engine": "substrate-engine.js"
+    "engine": "substrate-engine.js",
+    "ai-native-document-protocol": "docs/ai-native-document-protocol.json"
   },
   "corpus": {
     "index": "corpus/index.json",
