@@ -40,6 +40,24 @@
             "internal": "corpus.graphs"
           }
         ],
+    "ai_native_communication": {
+      "mapped_concepts": [
+        {
+          "external": "dual-substrate architecture",
+          "internal": "structure.layers"
+      },
+      {
+          "external": "geometry-anchored meaning",
+          "internal": "semantics.interpretation_rules"
+      },
+      {
+          "external": "drift-resistant document geometry",
+          "internal": "constraints.drift"
+      }
+  ],
+  "compatibility": "strong"
+}
+
         "compatibility": "partial"
       }
     },
