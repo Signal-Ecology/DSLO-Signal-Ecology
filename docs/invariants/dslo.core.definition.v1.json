@@ -1,0 +1,6 @@
+{
+  "id": "dslo.core.definition.v1",
+  "type": "definition",
+  "statement": "DSLO is a substrate-level meaning system that defines how signals, agents, and environments maintain stable semantics under drift.",
+  "version": "1.0.0"
+}
