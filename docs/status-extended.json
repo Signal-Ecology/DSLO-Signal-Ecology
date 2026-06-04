@@ -32,6 +32,11 @@
       "deterministic_initialization": true,
       "no_external_dependencies": true,
       "static_runtime": true
+    },
+    "ai_native_document_protocol": {
+      "structure": "valid",
+      "invariants": "aligned",
+      "nodes": "complete"
     }
   },
   "notes": "This v0.1 extended status block provides deep diagnostic information for deterministic ingestion."
