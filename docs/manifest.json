@@ -3,6 +3,7 @@
   "manifold_id": "dslo-dslo-v0",
   "description": "Deterministic semantic manifold for DSLO Deterministic Semantic Layered Orchestration, Signal Ecology.",
   "about": "about.json",
+  "ai_native_document_protocol": "ai-native-document-protocol.json",
   "metadata": "metadata.json",
   "status": "status.json",
   "routes": "routes.json",
