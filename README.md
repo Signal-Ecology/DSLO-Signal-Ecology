@@ -1,3 +1,11 @@
+Meaning Physics Engine: v0.1
+DSLO Semantic Substrate: v0.5
+Discipline: Meaning Physics / Signal Ecology
+Field: DSLO Semantic Substrate
+Architecture: Deterministic, Execution‑Free, Non‑Generative, Non‑Probabilistic
+Scientific Anchor: DOI 10.5281/zenodo.21083055  
+Viewer Identity: Public‑Layer Geometry Instrument
+
 # DSLO Deterministic Semantic Substrate (v0.1)
 
 This repository contains the v0.1 release of the DSLO deterministic semantic substrate:  
