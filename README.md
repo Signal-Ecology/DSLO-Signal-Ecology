@@ -27,7 +27,13 @@ The substrate provides a complete, self‑describing architecture composed of:
 This release establishes the foundation for DSLO and Signal Ecology as scientific disciplines.
 
 ---
+DSLO Field Context
+This model is part of the DSLO Semantic Substrate, a deterministic meaning‑physics framework defining substrate‑level invariants, signal ecology, and artificial cognition.
 
+Full DSLO documentation:
+https://www.tnopsi.com
+
+---
 ## Overview
 
 The DSLO substrate is built around three core principles:
