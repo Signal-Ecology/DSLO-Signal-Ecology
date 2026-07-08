@@ -34,6 +34,7 @@ Full DSLO documentation:
 https://www.tnopsi.com
 
 ---
+
 Related DSLO Components
 Signal Ecology — substrate‑level signal physics
 Meaning Physics — geometric meaning‑state dynamics
@@ -42,8 +43,8 @@ Artificial Cognition (AC) — deterministic cognition substrate
 Glossary: https://www.tnopsi.com/dslo-glossary
 Meaning Physics: https://www.tnopsi.com/dslo-meaning-physics
 Signal Ecology: https://www.tnopsi.com/dslo-signal-ecology
-Hugging Face Model
 Hugging Face Model:https://huggingface.co/DSLO/contextless-meaning-engine-v0
+
 ---
 ## Overview
 
